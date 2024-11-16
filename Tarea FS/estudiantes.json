@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "Noemí",
+    "apellido": "Morales",
+    "edad": 20,
+    "facultad": "Agronomía"
+  },
+  {
+    "nombre": "Daniela",
+    "apellido": "Sánchez",
+    "edad": 20,
+    "facultad": "Ingeniería y Arquitectura"
+  }
+]
